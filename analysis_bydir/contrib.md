@@ -1,13 +1,13 @@
-##contrib
+## contrib
 这个文件夹定义了一些工具.
-##geo2nginx.pl        by Andrei Nigmatulin
+## geo2nginx.pl        by Andrei Nigmatulin
 
      The perl script to convert CSV geoip database ( free download
      at http://www.maxmind.com/app/geoip_country ) to format, suitable
      for use by the ngx_http_geo_module.
 
 
-##unicode2nginx       by Maxim Dounin
+## unicode2nginx       by Maxim Dounin
 
      The perl script to convert unicode mappings ( available
      at http://www.unicode.org/Public/MAPPINGS/ ) to the nginx
